@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pandas
+google-generativeai
+matplotlib
+streamlit-authenticator
+seaborn
+plotly
+transformers
+torch
+
